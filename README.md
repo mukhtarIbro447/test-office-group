@@ -40,3 +40,4 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 FYI. Unfortunately, I did not focus on font family, colours, Icons and pixel details(I added whatever is closest as a placeholder) as I'm on holiday. It's just 2 hours of work. I don't have time to add all the blocks/ sections. 
+
